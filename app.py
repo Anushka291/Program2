@@ -12,6 +12,7 @@ html = """
   <button name="op" value="sub">Subtract</button>
   <button name="op" value="mul">Multiply</button>
   <button name="op" value="div">Divide</button>
+  <button name="op" value="mod">Modulus</button>
   <button name="op" value="mod">Remainder</button>
   <button name="op" value="pow">Power (Raised to)</button>
 </form>
